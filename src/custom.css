@@ -1,0 +1,18 @@
+.btn-space {
+    margin-right: 10px;
+}
+
+.form .custom-form {
+    border-radius: 25px;
+    width: 30%;
+    padding: 25px;
+    margin: 30px auto;
+}
+
+.home-modal .label {
+    padding-right: 50px;
+}
+
+.home-modal .value b {
+    padding-right: 15px;
+}

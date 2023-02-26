@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "Adam",
+      "userName": "steve",
+      "email": "adam201@gmail.com",
+      "phone": "8765553382",
+      "website": "www.adam.steve.com",
+      "id": 1
+    },
+    {
+      "name": "john",
+      "userName": "mathew",
+      "email": "john@gmail.com",
+      "phone": "987665217",
+      "website": "www.johny.com",
+      "id": 3
+    },
+    {
+      "name": "elisa",
+      "userName": "adam",
+      "email": "elisa@gmail.com",
+      "phone": "12349388943",
+      "website": "www.lisan.com",
+      "id": 4
+    },
+    {
+      "name": "steve",
+      "userName": "stun",
+      "email": "stev@yahoo.com",
+      "phone": "122432342523",
+      "website": "www.stev.com",
+      "id": 5
+    },
+    {
+      "name": "mathew",
+      "userName": "makon",
+      "email": "mathew.@gmail.com",
+      "phone": "2142352463410",
+      "website": "www.mathevMad.com",
+      "id": 6
+    },
+    {
+      "name": "Robin",
+      "userName": "ston",
+      "email": "robin@gmai.com",
+      "phone": "1231242",
+      "website": "www.robinston.com",
+      "id": 7
+    },
+    {
+      "name": "wwqe",
+      "userName": "ewer",
+      "email": "sdfsd@gmail.com",
+      "phone": "4324",
+      "website": "sdfsdfa",
+      "id": 8
+    }
+  ]
+}
